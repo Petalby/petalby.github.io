@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 
-<span style="color:red">Page is still underconstruction so all projects will not be available</span>
+<span style="color:red">Page is still underconstruction so all projects will not be available</span>..
 Here are some of the projects I’ve worked on:
 
 
