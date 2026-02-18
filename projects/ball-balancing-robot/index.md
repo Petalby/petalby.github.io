@@ -8,7 +8,7 @@ permalink: /projects/ball-balancing-robot/
 
   <div style="flex: 1;">
     <p>Acha Simonel Fon, Alberta Petiafo, Andrew Omolo, Ayobami Olumide Adigun, Jamiu Olamide Afolayan</p>
-    <p>This is the VEX 5 Robot project summary.</p>
+    <p>This is the ball balancing robot project summary.</p>
     <img src="/assets/ballsummary.jpeg" alt="Ball Balancing Robot" style="max-width: 100%;">
   </div>
 
