@@ -14,6 +14,8 @@ Beyond academics, I am passionate about volunteering work, especially initiative
 
 Outside of engineering, I enjoy cooking, trying out diverse cuisines and spending time in nature through sightseeing and outdoor adventures.
 
+**GitHub:** [github.com/Petalby](https://github.com/Petalby)
+
 
 
 
