@@ -15,7 +15,7 @@ Here are some of the projects I’ve worked on:
 - [Ball Balancing Robot](/projects/ball-balancing-robot/)
 - [VEX 5 Robot](/projects/vex-5-robot)
 - [Control of a Quadcopter](/projects/quadcopter-control/)
-- [Mathematical Tools Poster Presentation](/projects/mathematical-tools/)
+- [Mathematical Tools Poster Presentation](/projects/Mathematical/)
 
 ## Undergraduate Projects
 
