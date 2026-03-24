@@ -5,4 +5,4 @@ permalink: /projects/sprayer/
 ---
 
 
-<a href="/assets/Research_experience.pdf" </a>
+<a href="/assets/Research_experience.pdf">View PDF</a>
