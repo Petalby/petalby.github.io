@@ -11,4 +11,4 @@ By designing a simulation of concentric spherical shells in MATLAB, we investiga
 
 The project helped reinforce how mathematical tools like PDEs and numerical solvers can be directly applied to aerospace challenges. It also deepened my understanding of material behaviour under extreme conditions and improved my ability to translate theoretical knowledge into simulation-driven insight.
 
-![Mathematical tools Poster Presentation](/assets/Screenshot 2025-06-17 121132.png)
+![Mathematical](/assets/Screenshot 2025-06-17 121132.png)
