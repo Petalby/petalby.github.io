@@ -1,3 +1,9 @@
+---
+layout: page
+title: Quadcopter Control
+permalink: /projects/Mathematical/
+---
+
 
 This project was an applied exploration of Partial Differential Equations (PDEs) in modeling heat transfer within thermal protection systems, based on the CHarring Ablator Response (CHAR) framework developed by NASA. While not original research, the project was a technical exercise in replicating and understanding the key physical principles presented in the CHAR paper (Salazar et al., 2016).
 
