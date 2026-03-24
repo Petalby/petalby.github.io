@@ -19,5 +19,5 @@ Here are some of the projects I’ve worked on:
 
 ## Undergraduate Projects
 
-- [Redesign of a Tractor Sprayer Frame](/projects/tractor-sprayer-frame/)
+- [Redesign of a Tractor Sprayer Frame](/projects/sprayer/)
 - [Automatic Control Project](/projects/automatic-control/)
