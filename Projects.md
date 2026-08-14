@@ -13,11 +13,11 @@ hide_title: true
 <div class="project-grid">
   <a class="project-card" href="{{ '/projects/ball-balancing-robot/' | relative_url }}">
     <img src="{{ '/assets/ball-balancing-robot.png' | relative_url }}" alt="Ball-balancing robot shown with the ball in two positions">
-    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Ball Balancing Robot</h2><p>A feedback-control project demonstrating ball balancing with a PID controller.</p><span>View project →</span></div>
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Ball Balancing Robot</h2><p>Real-time visual tracking and PID control using a Pixy2 camera, ESP32, and 3-RRS mechanism.</p><span>View project →</span></div>
   </a>
   <a class="project-card" href="{{ '/projects/vex-5-robot/' | relative_url }}">
     <img src="{{ '/assets/vexrobot.jpeg' | relative_url }}" alt="VEX 5 mobile robot">
-    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>VEX 5 Robot</h2><p>Mobile-robot experiments involving trajectory tracking, distance sensing, and orientation updates.</p><span>View project →</span></div>
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>VEX V5 Robot</h2><p>Python-based motion control, trajectory tracking, kinematic validation, and sensor feedback.</p><span>View project →</span></div>
   </a>
   <a class="project-card" href="{{ '/projects/quadcopter-control/' | relative_url }}">
     <img src="{{ '/assets/quadsummary.jpeg' | relative_url }}" alt="Quadcopter control project summary">
