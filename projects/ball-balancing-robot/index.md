@@ -29,6 +29,13 @@ We conducted three experiments to evaluate the system’s performance:
 2. **Step response:** Studying the ball’s dynamics as it moved from the centre to an outer radius 80 cm away under underdamped, critically damped, and overdamped conditions.
 3. **Circular trajectory:** Guiding the ball along a circular reference path.
 
+### Experiment videos
+
+<div class="link-list">
+  <a href="https://youtu.be/AtePK2dwZHQ">Watch the centering response →</a>
+  <a href="https://youtube.com/shorts/TwZUbm-KzVU">Watch the step response →</a>
+</div>
+
 ## Camera calibration and signal filtering
 
 Camera calibration was performed to reduce image distortion and accurately map the ball’s position from camera coordinates to real-world coordinates. This mapping is essential for precise closed-loop control.
