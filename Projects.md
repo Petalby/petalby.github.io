@@ -11,6 +11,10 @@ hide_title: true
 </header>
 
 <div class="project-grid">
+  <a class="project-card" href="{{ '/projects/applied-systems-engineering/' | relative_url }}">
+    <img src="{{ '/assets/applied-systems-robot.jpeg' | relative_url }}" alt="Applied Systems Engineering mobile robot prototype">
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT · APPLIED SYSTEMS ENGINEERING</p><h2>The Transporter</h2><p>An autonomous robot integrating line following, package delivery, step climbing, and ball balancing.</p><span>View project →</span></div>
+  </a>
   <a class="project-card" href="{{ '/projects/ball-balancing-robot/' | relative_url }}">
     <img src="{{ '/assets/ball-balancing-robot.png' | relative_url }}" alt="Ball-balancing robot shown with the ball in two positions">
     <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Ball Balancing Robot</h2><p>Real-time visual tracking and PID control using a Pixy2 camera, ESP32, and 3-RRS mechanism.</p><span>View project →</span></div>
