@@ -63,6 +63,6 @@ The desired X and Y ball positions are compared with the measured positions from
 
 ## Academic collaboration
 
-This coursework was delivered in collaboration with ETH Zürich and taught with the involvement of the [Multi-Scale Robotics Lab](https://msrl.ethz.ch/). The lab introduced the feedback-control platform and guided the work on inverse kinematics, camera calibration, and model validation.
+This coursework was taught by [Multi-Scale Robotics Lab](https://msrl.ethz.ch/) as part of the Ashesi-ETHZ collaboration. The lab introduced the feedback-control platform and guided the work on inverse kinematics, camera calibration, and model validation.
 
 <a class="button button-primary" href="https://youtu.be/WWQu4sDhVPg">Watch the PID controller demonstration</a>
