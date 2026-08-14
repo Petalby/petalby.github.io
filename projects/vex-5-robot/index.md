@@ -1,34 +1,27 @@
 ---
 layout: page
-title: Vex 5 Robot
+title: VEX 5 Robot
 permalink: /projects/vex-5-robot/
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<p class="project-summary">A mobile-robot project exploring trajectory tracking, distance sensing, and orientation updates.</p>
 
+<div class="tag-row"><span>Robotics</span><span>Trajectory tracking</span><span>Distance sensing</span></div>
 
-  <div style="flex: 1;">
-    <p>Alberta Petiafo, Priscilla Yeboaa, Hillary Kiduhu Ndeda</p>
-    <p>This is the VEX 5 Robot project summary.</p>
-    <img src="/assets/vexsummary.jpeg" alt="VEX 5 Robot" style="max-width: 100%;">
-  </div>
+## Project overview
 
+This project was completed by Alberta Petiafo, Priscilla Yeboaa, and Hillary Kiduhu Ndeda. The demonstrations show the robot following several trajectories and responding to sensing and orientation requirements.
 
-  <div>
-    <img src="/assets/vexrobot.jpeg" alt="Profile Picture" width="200" style="border-radius: 10px;">
-  </div>
-
+<div class="project-media two-column-media">
+  <img src="{{ '/assets/vexsummary.jpeg' | relative_url }}" alt="VEX 5 robot project summary">
+  <img src="{{ '/assets/vexrobot.jpeg' | relative_url }}" alt="VEX 5 mobile robot used in the project">
 </div>
 
+## Demonstrations
 
-
-
-
-
-[Moving in an arbitrary zig zag path](https://youtu.be/Qjbvib-Wt3s)
-
-[Robot moving in an enclosed trajectory](https://youtu.be/l_IQPxSFarE)
-
-[Distance sensor in S trajectory](https://youtu.be/jlOTTmG8V8g)
-
-[S trajectory while updating its orientation](https://youtu.be/K29BbcEq1vo)
+<div class="link-list">
+  <a href="https://youtu.be/Qjbvib-Wt3s">Moving in an arbitrary zigzag path →</a>
+  <a href="https://youtu.be/l_IQPxSFarE">Moving in an enclosed trajectory →</a>
+  <a href="https://youtu.be/jlOTTmG8V8g">Using a distance sensor on an S trajectory →</a>
+  <a href="https://youtu.be/K29BbcEq1vo">Following an S trajectory while updating orientation →</a>
+</div>

@@ -3,21 +3,18 @@ layout: page
 title: Ball Balancing Robot
 permalink: /projects/ball-balancing-robot/
 ---
-<div style="display: flex; align-items: flex-start; gap: 20px;">
 
+<p class="project-summary">A team robotics project demonstrating feedback control by balancing a ball with a PID controller.</p>
 
-  <div style="flex: 1;">
-    <p>Acha Simonel Fon, Alberta Petiafo, Andrew Omolo, Ayobami Olumide Adigun, Jamiu Olamide Afolayan</p>
-    <p>This is the ball balancing robot project summary.</p>
-    <img src="/assets/ballsummary.jpeg" alt="Ball Balancing Robot" style="max-width: 100%;">
-  </div>
+<div class="tag-row"><span>Robotics</span><span>PID control</span><span>Feedback systems</span></div>
 
+## Project overview
 
-  <div>
-    <img src="/assets/ballteam.jpeg" alt="Profile Picture" width="200" style="border-radius: 10px;">
-  </div>
+This project was completed by Acha Simonel Fon, Alberta Petiafo, Andrew Omolo, Ayobami Olumide Adigun, and Jamiu Olamide Afolayan.
 
+<div class="project-media two-column-media">
+  <img src="{{ '/assets/ballsummary.jpeg' | relative_url }}" alt="Ball-balancing robot project summary">
+  <img src="{{ '/assets/ballteam.jpeg' | relative_url }}" alt="Ball-balancing robot project team">
 </div>
 
-
-[Ball balancing with PID controller](https://youtu.be/WWQu4sDhVPg)
+<a class="button button-primary" href="https://youtu.be/WWQu4sDhVPg">Watch the PID controller demonstration</a>

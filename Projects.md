@@ -4,20 +4,31 @@ title: Projects
 permalink: /projects/
 hide_title: true
 ---
+<header class="page-intro">
+  <p class="eyebrow">SELECTED WORK</p>
+  <h1>Engineering projects</h1>
+  <p>A selection of graduate and undergraduate work across robotics, control, simulation, and mechanical design.</p>
+</header>
 
-
-<span style="color:red">Page is still underconstruction so all projects will not be available</span><br>
-Here are some of the projects I’ve worked on:
-
-
-## Graduate Projects
-
-- [Ball Balancing Robot](/projects/ball-balancing-robot/)
-- [VEX 5 Robot](/projects/vex-5-robot)
-- [Control of a Quadcopter](/projects/quadcopter-control/)
-- [Mathematical Tools Poster Presentation](/projects/Mathematical/)
-
-## Undergraduate Projects
-
-- [Redesign of a Tractor Sprayer Frame](/projects/sprayer/)
-- [Automatic Control Project](/projects/automatic-control/)
+<div class="project-grid">
+  <a class="project-card" href="{{ '/projects/ball-balancing-robot/' | relative_url }}">
+    <img src="{{ '/assets/ballsummary.jpeg' | relative_url }}" alt="Ball-balancing robot project summary">
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Ball Balancing Robot</h2><p>A feedback-control project demonstrating ball balancing with a PID controller.</p><span>View project →</span></div>
+  </a>
+  <a class="project-card" href="{{ '/projects/vex-5-robot/' | relative_url }}">
+    <img src="{{ '/assets/vexrobot.jpeg' | relative_url }}" alt="VEX 5 mobile robot">
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>VEX 5 Robot</h2><p>Mobile-robot experiments involving trajectory tracking, distance sensing, and orientation updates.</p><span>View project →</span></div>
+  </a>
+  <a class="project-card" href="{{ '/projects/quadcopter-control/' | relative_url }}">
+    <img src="{{ '/assets/quadsummary.jpeg' | relative_url }}" alt="Quadcopter control project summary">
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Quadcopter Control</h2><p>An exploration of the modelling and control of a quadcopter system.</p><span>View project →</span></div>
+  </a>
+  <a class="project-card" href="{{ '/projects/mathematical-tools/' | relative_url }}">
+    <img src="{{ '/assets/mathtools.jpeg' | relative_url }}" alt="Poster about mathematical tools for heat-transfer modelling">
+    <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Mathematical Tools</h2><p>Using partial differential equations and MATLAB to model heat transfer in thermal protection systems.</p><span>View project →</span></div>
+  </a>
+  <a class="project-card" href="{{ '/projects/sprayer/' | relative_url }}">
+    <div class="project-placeholder">MECHANICAL DESIGN</div>
+    <div class="project-card-copy"><p class="project-level">UNDERGRADUATE PROJECT</p><h2>Tractor Sprayer Frame</h2><p>A mechanical redesign project focused on a tractor-mounted sprayer frame.</p><span>View project →</span></div>
+  </a>
+</div>
