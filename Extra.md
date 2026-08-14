@@ -12,5 +12,4 @@ hide_title: true
 
 <a class="volunteer-feature" href="{{ '/volunteering/gallery/' | relative_url }}">
   <img src="{{ '/assets/WhatsApp Image 2025-02-24 at 09.48.49.jpeg' | relative_url }}" alt="Alberta participating in a volunteering activity">
-  <div><h2>Community activities</h2><p>View moments from my volunteering and technology outreach activities.</p><span>View gallery →</span></div>
-</a>
+  <div><h2>Community activities</h2><p>View moments from my volunteering and technology outreach activities.</p><span>
