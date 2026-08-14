@@ -47,11 +47,6 @@ The mechanical pickup system collected the colour-coded packages, retained them 
 
 A two-degree-of-freedom gimbal used two servos and IMU feedback to balance a ping-pong ball while the robot moved. Accelerometer and gyroscope measurements were combined using a team-developed one-dimensional Mahony filter to estimate roll and pitch.
 
-<figure class="control-diagram">
-  <img src="{{ '/assets/mahony-filter-model.png' | relative_url }}" alt="State-space representation of the linear Mahony attitude-estimation filter">
-  <figcaption>State-space representation of the Mahony filter used for attitude estimation.</figcaption>
-</figure>
-
 ## Embedded implementation
 
 The system used an STM32F446RE Nucleo board and PES expansion board. The gimbal application ran on Mbed OS with a 20 ms task period, producing a 50 Hz loop for IMU processing and servo control. Servo pulse-width calibration and angle limits converted the estimated roll and pitch into safe actuator commands.
