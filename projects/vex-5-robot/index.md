@@ -15,8 +15,7 @@ As part of a robotics lab course, I worked on a comprehensive VEX V5 robot progr
 This project was completed by Alberta Petiafo, Priscilla Yeboaa, and Hillary Kiduhu Ndeda.
 
 <div class="project-media two-column-media">
-  <img src="{{ '/assets/vexsummary.jpeg' | relative_url }}" alt="VEX 5 robot project summary">
-  <img src="{{ '/assets/vexrobot.jpeg' | relative_url }}" alt="VEX 5 mobile robot used in the project">
+    <img src="{{ '/assets/vexrobot.jpeg' | relative_url }}" alt="VEX 5 mobile robot used in the project">
 </div>
 
 ## What I Did
