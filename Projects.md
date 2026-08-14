@@ -12,7 +12,7 @@ hide_title: true
 
 <div class="project-grid">
   <a class="project-card" href="{{ '/projects/ball-balancing-robot/' | relative_url }}">
-    <img src="{{ '/assets/ballsummary.jpeg' | relative_url }}" alt="Ball-balancing robot project summary">
+    <img src="{{ '/assets/ball-balancing-robot.png' | relative_url }}" alt="Ball-balancing robot shown with the ball in two positions">
     <div class="project-card-copy"><p class="project-level">GRADUATE PROJECT</p><h2>Ball Balancing Robot</h2><p>A feedback-control project demonstrating ball balancing with a PID controller.</p><span>View project →</span></div>
   </a>
   <a class="project-card" href="{{ '/projects/vex-5-robot/' | relative_url }}">
