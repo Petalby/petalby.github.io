@@ -55,3 +55,11 @@ The system used an STM32F446RE Nucleo board and PES expansion board.
 The final lightweight prototype demonstrated colour sensing, package transport, line following, step crossing, and ball balancing as an integrated system. The project reinforced the importance of teamwork and systems thinking: changing one mechanical, electronic, or software component affected the performance of the complete robot.
 
 <a class="button button-primary" href="{{ '/assets/the-transporter-portfolio.pdf' | relative_url }}">View The Transporter portfolio</a>
+
+## Course collaboration
+
+The course was taught by instructors from the <a href = "https://www.zhaw.ch/en/engineering/institutes-centres/ims"> ZHAW Institute of Mechatronic Systems. For the complete project, our team forked the PES Board hardware and driver repository and developed our work from that foundation.
+
+<div class="link-list">
+  <a href="https://github.com/pichim/PES_Board">View the original PES Board repository on GitHub →</a>
+</div>
