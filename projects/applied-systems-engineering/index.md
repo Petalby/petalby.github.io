@@ -15,7 +15,11 @@ The Transporter was developed for the MECH 617 Applied Systems Engineering cours
 The team consisted of Alberta Petiafo, Priscilla Yeboaa Asiedu, Samuel Kojo Akwensivie, Godlove Bissaga, and Douglas Kumi Koomson.
 
 <figure class="featured-project-image">
-  <img src="{{ '/assets/applied-systems-robot.jpeg' | relative_url }}" alt="The Transporter autonomous mobile robot with its electronics and package-handling mechanism visible">
+  <img
+    class="transporter-image"
+    src="{{ '/assets/applied-systems-robot.jpeg' | relative_url }}"
+    alt="The Transporter autonomous mobile robot with its electronics and package-handling mechanism visible"
+  >
   <figcaption>The assembled Transporter robot.</figcaption>
 </figure>
 
