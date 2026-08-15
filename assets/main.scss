@@ -90,3 +90,10 @@ body { background: #ffffff; color: var(--ink); }
   .volunteer-feature img { height: 280px; }
   .footer-inner { flex-direction: column; }
 }
+.transporter-image {
+  display: block;
+  width: 60%;
+  max-width: 500px;
+  height: auto;
+  margin: 0 auto;
+}
