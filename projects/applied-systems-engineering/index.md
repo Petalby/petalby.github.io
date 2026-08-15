@@ -41,7 +41,7 @@ The chassis and wheel system had to fit within an initial envelope of 200 × 200
 
 ### Line following and colour detection
 
-An infrared line sensor enabled the robot to follow the course. A colour sensor distinguished the four package markers so the robot could associate packages with their correct destinations. The team developed the `LineFollower.cpp` implementation used by the system.
+An infrared line sensor enabled the robot to follow the course. A colour sensor distinguished the four package markers so the robot could associate packages with their correct destinations.
 
 ### Package transport
 
@@ -54,6 +54,14 @@ A two-degree-of-freedom gimbal used two servos and IMU feedback to balance a pin
 ## Embedded implementation
 
 The system used an STM32F446RE Nucleo board and PES expansion board. 
+
+## Demonstration videos
+
+<div class="link-list">
+  <a href="https://youtu.be/0B2q82zVRBg">Watch the ball-balancing demonstration →</a>
+  <a href="https://youtu.be/u7NkMmkn1AE">Watch the robot navigate a predefined path →</a>
+  <a href="https://youtu.be/IGULwXDyI8k">Watch the robot overcome the step →</a>
+</div>
 
 ## Outcome and lessons
 
