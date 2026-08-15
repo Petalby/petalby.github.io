@@ -35,23 +35,10 @@ The robot was designed to operate autonomously and complete a clockwise course i
 
 ## Engineering challenges
 
-### Mobility and step crossing
-
-The chassis and wheel system had to fit within an initial envelope of 200 × 200 × 200 mm and climb a step. The robot used DC motors with encoders and was powered by the supplied 12 V NiMH battery pack.
-
-### Line following and colour detection
-
-An infrared line sensor enabled the robot to follow the course. A colour sensor distinguished the four package markers so the robot could associate packages with their correct destinations.
-
-### Package transport
-
-The mechanical pickup system collected the colour-coded packages, retained them while following the course, and positioned them for delivery at the corresponding coloured locations.
-
-### Ball balancing
-
-A two-degree-of-freedom gimbal used two servos and IMU feedback to balance a ping-pong ball while the robot moved. Accelerometer and gyroscope measurements were combined using a team-developed one-dimensional Mahony filter to estimate roll and pitch.
-
-## Embedded implementation
+1. The chassis and wheel system had to fit within an initial envelope of 200 × 200 × 200 mm and climb a step. The robot used DC motors with encoders and was powered by the supplied 12 V NiMH battery pack.
+2. An infrared line sensor enabled the robot to follow the course. A colour sensor distinguished the four package markers so the robot could associate packages with their correct destinations.
+3. The mechanical pickup system collected the colour-coded packages, retained them while following the course, and positioned them for delivery at the corresponding coloured locations.
+4. A two-degree-of-freedom gimbal used two servos and IMU feedback to balance a ping-pong ball while the robot moved. Accelerometer and gyroscope measurements were combined using a team-developed one-dimensional Mahony filter to estimate roll and pitch.
 
 The system used an STM32F446RE Nucleo board and PES expansion board. 
 
