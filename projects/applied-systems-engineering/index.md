@@ -49,7 +49,7 @@ A two-degree-of-freedom gimbal used two servos and IMU feedback to balance a pin
 
 ## Embedded implementation
 
-The system used an STM32F446RE Nucleo board and PES expansion board. The gimbal application ran on Mbed OS with a 20 ms task period, producing a 50 Hz loop for IMU processing and servo control. Servo pulse-width calibration and angle limits converted the estimated roll and pitch into safe actuator commands.
+The system used an STM32F446RE Nucleo board and PES expansion board. 
 
 ## Outcome and lessons
 
