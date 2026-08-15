@@ -58,7 +58,7 @@ The final lightweight prototype demonstrated colour sensing, package transport, 
 
 ## Course collaboration
 
-The course was taught by instructors from the <a href = "https://www.zhaw.ch/en/engineering/institutes-centres/ims"> ZHAW Institute of Mechatronic Systems. For the complete project, our team forked the PES Board hardware and driver repository and developed our work from that foundation.
+The course was taught by instructors from the <a href = "https://www.zhaw.ch/en/engineering/institutes-centres/ims"> ZHAW Institute of Mechatronic Systems</a>. For the complete project, our team forked the PES Board hardware and driver repository and developed our work from that foundation.
 
 <div class="link-list">
   <a href="https://github.com/pichim/PES_Board">View the original PES Board repository on GitHub →</a>
